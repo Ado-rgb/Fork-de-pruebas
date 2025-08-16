@@ -69,6 +69,7 @@
 "ruhend-scraper": "^7.0.4",
 "similarity": "^1.2.1",
 "syntax-error": "^1.4.0",
+"sharp": "^0.30.7",
 "terminal-image": "^2.0.0",
 "undici": "^5.10.0",
 "url-regex-safe": "^3.0.0",
